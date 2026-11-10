@@ -8,6 +8,7 @@ function App() {
       <div>
         <header/>
         <h2>Welcome to System</h2>
+         <h2>Student Mangement System</h2>
         
       </div>
     </>
